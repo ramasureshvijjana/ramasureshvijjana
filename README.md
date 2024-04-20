@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! My name is <i style="color: red;">Rama Suresh Vijjana<i> and I'm a <i>Data Scientist<i> & <i>AI Engineer<i>.</h2>
+###
+
+<img align="center" height="250" width="800" src="https://github.com/ramasureshvijjana/ramasureshvijjana/blob/master/profile3.png"  />
 
 ###
+<h2 align="left">Hi 👋! My name is <i style="color: red;">Rama Suresh Vijjana<i> and I'm a <i>Data Scientist<i> & <i>AI Engineer<i>.</h2>
+
+  ###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
