@@ -34,11 +34,22 @@
 
 ---
 
+<!-- ...previous content above... -->
+
+### 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ramasureshvijjana&theme=github_dark" alt="GitHub Profile Details" />
+</p>
+
+<!-- ...rest of your README content below... -->
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RamaSureshVJ&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RamaSureshVJ&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramasureshvijjana&show_icons=true&theme=tokyonight" alt="ramasureshvijjana's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ramasureshvijjana&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramasureshvijjana&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
