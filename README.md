@@ -1,6 +1,6 @@
 <!-- Cover Image -->
 <p align="center">
-  <img src="../ramasureshvijjana/Cover_image.png" alt="Cover Image" width="100%" />
+  <img src="https://github.com/ramasureshvijjana/ramasureshvijjana/blob/master/Cover_image.png" alt="Cover Image" width="100%" />
 </p>
 
 <h3 align="center">Data Scientist | AI Engineer | LLM Enthusiast</h3>
